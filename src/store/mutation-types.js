@@ -1,0 +1,5 @@
+export const CITY_NAME = 'CITY_NAME'
+export const CINEMA_NAME ='CINEMA_NAME'
+export const CITY_NAME_A ='CITY_NAME_A'
+export const MOVIE_NAME='MOVIE_NAME'
+export const CINAME_NAME ='CINAME_NAME'
